@@ -1,0 +1,21 @@
+VYB — RESTAURANTE BOOKING (GitHub Pages)
+
+1. Descomprimí este ZIP en tu computadora.
+2. Creá un repositorio NUEVO en tu cuenta de GitHub.
+3. Entrá en Add file > Upload files y seleccioná TODOS los archivos descomprimidos,
+   incluyendo las siete páginas .html y la CARPETA assets con sus imágenes.
+   NO subas el ZIP como único archivo; NO metas todo adentro de una carpeta extra.
+4. Confirmá los cambios con Commit changes.
+5. Entrá en Settings > Pages.
+6. Source: Deploy from a branch | Branch: main | Folder: /(root) | Save.
+7. En Actions comprobá que el despliegue termine correctamente.
+8. Volvé a Settings > Pages y abrí Visit site.
+9. Comprobá la página en celular, cada sección, el idioma y las imágenes.
+10. El botón de reservas mostrará un aviso: es intencional, porque no hay
+    calendario real conectado. NUNCA dirige a Obsidian.
+
+Si alguna foto da error 404, verificá que esté exactamente en assets/ con
+los mismos nombres y mayúsculas que en el ZIP. No hace falta eliminar
+ni recrear la publicación: GitHub Pages vuelve a publicar cada commit.
+
+Las horas, la ubicación, los platos y los precios son demostrativos.
